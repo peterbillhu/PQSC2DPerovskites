@@ -7,7 +7,7 @@
 
 ## Mathematical formulation
 
-For a given topological filtration $\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$ and $\sim$ an equivalence relation on 
+For a given topological filtration $\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$, $A \subseteq X$, and $\sim_A$ an equivalence relation on $A$. By extending $\sim_A$ to be the least equivalence relation on   
 
 
 
@@ -17,6 +17,9 @@ $$\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$$
 
 1.  Gudhi
 2.  
+
+## Important functions
+
 
 
 ## Google Colab Tutorial
