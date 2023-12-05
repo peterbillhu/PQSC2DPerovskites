@@ -1,15 +1,17 @@
 # Pesistent homology of quotient complexes (QCs)
 
-![Quotient_Complex_Filtration](https://github.com/peterbillhu/PQSC2DPerovskites/assets/28446650/d2bda146-cded-4b5d-9c2f-a02157416cb2)
+![Quotient_Complex_Filtration_2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/14d968b0-bef8-4cb9-ab79-cdd03342d9e9)
 
 ## Introduciton
 
 
 ## Mathematical formulation
 
-For a given topological filtration $$\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$$
+For a given topological filtration $\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$ and $\sim$ an equivalence relation on 
 
 
+
+$$\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$$
 
 # Packages
 
