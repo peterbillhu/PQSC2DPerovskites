@@ -13,15 +13,15 @@ For a given topological filtration $\emptyset \subseteq X_1 \subseteq X_2 \subse
 
 $$\emptyset \subseteq X_1 \subseteq X_2 \subseteq \cdots \subseteq X_n$$
 
-# Packages
+## Required packages
 
 1.  Gudhi
 2.  
 
 
-# Google Colab Tutorial
+## Google Colab Tutorial
 
 
-# References
+## References
 
 1. 
