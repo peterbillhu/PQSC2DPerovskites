@@ -15,7 +15,7 @@ $$\emptyset \subseteq X_1/\sim_A \subseteq X_2/\sim_A \subseteq \cdots \subseteq
 
 where the inclusion relations are based on the canonical one-to-one and continuous map $X_i/\sim_A \hookrightarrow X_{i+1}/\sim_A$ with $[x] \mapsto [x]$. Furthermore, the functoriality of homology induces the following persistent homology
 
-$$0 \subseteq H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrightarrow{\psi_2} \cdots \xrightarrow{\psi_{n-1}} H_q(X_n/\sim_A)$$
+$$0 \xrightarrow{} H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrightarrow{\psi_2} \cdots \xrightarrow{\psi_{n-1}} H_q(X_n/\sim_A)$$
 
 of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$.
 
