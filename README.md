@@ -4,7 +4,7 @@
 
 ## Introduciton
 
-In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [2].  
+In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [4].  
 
 
 ## Mathematical formulation
@@ -36,7 +36,8 @@ In this project, we develop a tool based on the Gudhi package [1] to construct a
 The core is programmed in Python language with the following TDA packages:
 
 1.  Gudhi [1] (available on https://gudhi.inria.fr/index.html)
-2.  
+2.  Ripser [2] (available on [https://gudhi.inria.fr/index.html](https://ripser.scikit-tda.org/en/latest/))
+3.  [3]
 
 ## Released versions
 
@@ -49,4 +50,8 @@ The core is programmed in Python language with the following TDA packages:
 
 [1] Maria, Clément, et al. "The gudhi library: Simplicial complexes and persistent homology." Mathematical Software–ICMS 2014: 4th International Congress, Seoul, South Korea, August 5-9, 2014. Proceedings 4. Springer Berlin Heidelberg, 2014.
 
-[2] Hatcher, Allen. "Algebraic Topology." (2000). Available on the website https://pi.math.cornell.edu/~hatcher/AT/AT.pdf.
+[2] Tralie, Christopher, Nathaniel Saul, and Rann Bar-On. "Ripser. py: A lean persistent homology library for python." Journal of Open Source Software 3.29 (2018): 925.
+
+[3] 
+
+[4] Hatcher, Allen. "Algebraic Topology." (2000). Available on the website https://pi.math.cornell.edu/~hatcher/AT/AT.pdf.
