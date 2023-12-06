@@ -52,7 +52,7 @@ The core is programmed in Python language with the following TDA packages:
 
 [1] Maria, Clément, et al. "The gudhi library: Simplicial complexes and persistent homology." Mathematical Software–ICMS 2014: 4th International Congress, Seoul, South Korea, August 5-9, 2014. Proceedings 4. Springer Berlin Heidelberg, 2014.
 
-[2] Tralie, Christopher, Nathaniel Saul, and Rann Bar-On. "Ripser. py: A lean persistent homology library for python." Journal of Open Source Software 3.29 (2018): 925.
+[2] Tralie, Christopher, Nathaniel Saul, and Rann Bar-On. "Ripser.py: A lean persistent homology library for python." Journal of Open Source Software 3.29 (2018): 925.
 
 [3] Saul, Nathaniel, and Chris Tralie. "Scikit-tda: Topological data analysis for python." URL https://doi.org/10.5281/zenodo 2533369 (2019).
 
