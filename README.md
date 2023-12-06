@@ -30,7 +30,7 @@ The core is programmed in Python language with the following TDA packages:
 
 ## Important functions
 
-
+## Released versions
 
 ## Google Colab Tutorial
 
