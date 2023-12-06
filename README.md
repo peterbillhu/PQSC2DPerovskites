@@ -23,7 +23,7 @@ From a computational perspective, this project focuses on the construction of _q
 
 $$\emptyset \subseteq K_1 \subseteq K_2 \subseteq \cdots \subseteq K_n.$$
 
-In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-simplices of $K_1$, and define a  
+In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-simplices of $K_1$, and define an equivalence relation $\sim_A$ that ``glues'' some points of $A$ together.   
 
 ## Required packages
 
