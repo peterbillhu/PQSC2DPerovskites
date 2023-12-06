@@ -4,6 +4,8 @@
 
 ## Introduciton
 
+In algebraic topology, the cell complex provides a more flexible and general 
+
 
 ## Mathematical formulation
 
