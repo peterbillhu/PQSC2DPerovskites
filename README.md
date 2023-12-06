@@ -36,7 +36,7 @@ In this project, we develop a tool based on the Gudhi package [1] to construct a
 The core is programmed in Python language with the following TDA packages:
 
 1.  Gudhi [1] (available on https://gudhi.inria.fr/index.html)
-2.  Ripser [2] (available on [https://gudhi.inria.fr/index.html](https://ripser.scikit-tda.org/en/latest/))
+2.  Ripser [2] (available on https://ripser.scikit-tda.org/en/latest/)
 3.  [3]
 
 ## Released versions
