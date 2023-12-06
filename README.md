@@ -35,5 +35,6 @@ The core is programmed in Python language with the following TDA packages:
 
 ## References
 
-[1] 
+[1]
+
 [2]
