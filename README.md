@@ -37,7 +37,9 @@ The core is programmed in Python language with the following TDA packages:
 
 1.  Gudhi [1] (available on https://gudhi.inria.fr/index.html)
 2.  Ripser [2] (available on https://ripser.scikit-tda.org/en/latest/)
-3.  [3]
+3.  Persim [3] (available on https://persim.scikit-tda.org/en/latest/reference/index.html)
+
+**Remark** We note that the core algorithms and functions developed on this project are purely based on the Gudhi package. However, some plotting and persistence diagram analysis tools may involve Ripser and Pesim. For users who are purely interested in the PH of quotient complexes, they can remove the code that involve Ripser and Persim.
 
 ## Released versions
 
@@ -52,6 +54,6 @@ The core is programmed in Python language with the following TDA packages:
 
 [2] Tralie, Christopher, Nathaniel Saul, and Rann Bar-On. "Ripser. py: A lean persistent homology library for python." Journal of Open Source Software 3.29 (2018): 925.
 
-[3] 
+[3] Saul, Nathaniel, and Chris Tralie. "Scikit-tda: Topological data analysis for python." URL https://doi. org/10.5281/zenodo 2533369 (2019).
 
 [4] Hatcher, Allen. "Algebraic Topology." (2000). Available on the website https://pi.math.cornell.edu/~hatcher/AT/AT.pdf.
