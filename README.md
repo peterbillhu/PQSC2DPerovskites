@@ -23,7 +23,7 @@ of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$.
 
 The core is programmed in Python language with the following TDA packages:
 
-1.  Gudhi [1]
+1.  Gudhi [1] (available on https://gudhi.inria.fr/index.html)
 2.  
 
 ## Important functions
@@ -35,6 +35,6 @@ The core is programmed in Python language with the following TDA packages:
 
 ## References
 
-[1]
+[1] Maria, Clément, et al. "The gudhi library: Simplicial complexes and persistent homology." Mathematical Software–ICMS 2014: 4th International Congress, Seoul, South Korea, August 5-9, 2014. Proceedings 4. Springer Berlin Heidelberg, 2014.
 
 [2]
