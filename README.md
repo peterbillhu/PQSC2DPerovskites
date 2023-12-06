@@ -4,7 +4,7 @@
 
 ## Introduciton
 
-In algebraic topology, the cell complex provides a more general description than the simplicial complex, offering a more flexible   
+In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [2].  
 
 
 ## Mathematical formulation
@@ -49,4 +49,4 @@ The core is programmed in Python language with the following TDA packages:
 
 [1] Maria, Clément, et al. "The gudhi library: Simplicial complexes and persistent homology." Mathematical Software–ICMS 2014: 4th International Congress, Seoul, South Korea, August 5-9, 2014. Proceedings 4. Springer Berlin Heidelberg, 2014.
 
-[2]
+[2] Hatcher, Allen. "Algebraic Topology." (2000). Available on the website https://pi.math.cornell.edu/~hatcher/AT/AT.pdf.
