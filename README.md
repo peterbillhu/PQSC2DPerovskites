@@ -28,9 +28,9 @@ The core is programmed in Python language with the following TDA packages:
 1.  Gudhi [1] (available on https://gudhi.inria.fr/index.html)
 2.  
 
-## Important functions
-
 ## Released versions
+
+## Important functions
 
 ## Google Colab Tutorial
 
