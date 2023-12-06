@@ -39,7 +39,7 @@ The core is programmed in Python language with the following TDA packages:
 2.  Ripser [2] (available on https://ripser.scikit-tda.org/en/latest/)
 3.  Persim [3] (available on https://persim.scikit-tda.org/en/latest/reference/index.html)
 
-**Remark** We note that the core algorithms and functions developed on this project are purely based on the Gudhi package. However, some plotting and persistence diagram analysis tools may involve Ripser and Pesim. For users who are purely interested in the PH of quotient complexes, they can remove the code that involve Ripser and Persim.
+**Remark** It is important to highlight that the fundamental algorithms and functions developed for this project are exclusively built upon the Gudhi package. Nevertheless, certain tools for plotting and persistence diagram analysis may incorporate Ripser and Persim. Users who are specifically focused on the persistent homology of quotient complexes have the option to remove the code associated with Ripser and Persim.
 
 ## Released versions
 
