@@ -4,7 +4,7 @@
 
 ## Introduciton
 
-In algebraic topology, the cell complex provides a more flexible and general 
+In algebraic topology, the cell complex provides a more general description than the simplicial complex, offering a more flexible   
 
 
 ## Mathematical formulation
