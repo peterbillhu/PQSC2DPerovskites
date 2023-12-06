@@ -19,7 +19,9 @@ $$0 \xrightarrow{} H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrighta
 
 of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the _q-th persistent homology of the quotient space filtration_.
 
-From a computational perspective, this project focuses on the construction 
+From a computational perspective, this project focuses on the construction of _quotient complex filtration_ based on a filtration of simplicial complexes 
+
+$$\emptyset \subseteq K_1 \subseteq X_2 \subseteq \cdots \subseteq X_n.$$
 
 ## Required packages
 
