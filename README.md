@@ -19,11 +19,13 @@ $$0 \xrightarrow{} H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrighta
 
 of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the _q-th persistent homology of the quotient space filtration_.
 
-From a computational perspective, this project focuses on the construction of _quotient complex filtration_ based on a filtration of simplicial complexes 
+From a computational perspective, this project focuses on the construction of _quotient complex (QC) filtration_ based on a filtration of simplicial complexes 
 
 $$\emptyset \subseteq K_1 \subseteq K_2 \subseteq \cdots \subseteq K_n.$$
 
-In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-simplices of $K_1$, and define an equivalence relation $\sim_A$ that ``glues'' some points of $A$ together. Based on the equivalence relation, we may define $\overline{K_i} = K_i/ \sim_A$ 
+In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-simplices of $K_1$, and define an equivalence relation $\sim_A$ that ``glues'' some points of $A$ together. Based on the equivalence relation, we may define $\overline{K_i} = K_i/ \sim_A$ and obtain the following filtration of cell complexes:
+
+$$\emptyset \subseteq \overline{K_1} \subseteq \overline{K_2} \subseteq \cdots \subseteq \overline{K_n}.$$
 
 ## Required packages
 
