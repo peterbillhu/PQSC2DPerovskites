@@ -13,7 +13,7 @@ Furthermore, based on the equivalence relation $\sim_A$ each $X_i$ admits the qu
 
 $$\emptyset \subseteq X_1/\sim_A \subseteq X_2/\sim_A \subseteq \cdots \subseteq X_n/\sim_A,$$
 
-where
+where the inclusion relations are based on the canonical one-to-one and continuous map $X_i/\sim_A \hookrightarrow X_{i+1}/\sim_A$ with $[x] \mapsto [x]$.
 
 ## Required packages
 
