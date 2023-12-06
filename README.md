@@ -21,7 +21,9 @@ of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$.
 
 ## Required packages
 
-1.  Gudhi
+The core is programmed in Python language with the following TDA packages:
+
+1.  Gudhi [1]
 2.  
 
 ## Important functions
