@@ -21,7 +21,9 @@ of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the 
 
 From a computational perspective, this project focuses on the construction of _quotient complex filtration_ based on a filtration of simplicial complexes 
 
-$$\emptyset \subseteq K_1 \subseteq X_2 \subseteq \cdots \subseteq X_n.$$
+$$\emptyset \subseteq K_1 \subseteq K_2 \subseteq \cdots \subseteq K_n.$$
+
+In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-simplices of $K_1$, and define a  
 
 ## Required packages
 
