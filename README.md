@@ -17,7 +17,7 @@ where the inclusion relations are based on the canonical one-to-one and continuo
 
 $$0 \xrightarrow{} H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrightarrow{\psi_2} \cdots \xrightarrow{\psi_{n-1}} H_q(X_n/\sim_A)$$
 
-of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the \it{q-th persistent homology of the quotient space filtration}.
+of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the _q-th persistent homology of the quotient space filtration_.
 
 From a computational perspective, this project focuses on the construction 
 
