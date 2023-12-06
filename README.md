@@ -27,7 +27,7 @@ In particular, we consider $A$ as the vertex set of $K_1$, i.e., the set of $0$-
 
 $$\emptyset \subseteq \overline{K_1} \subseteq \overline{K_2} \subseteq \cdots \subseteq \overline{K_n}.$$
 
-In this project, we develop a tool based on the Gudhi package to construct and build the QC filtration and its persistent homology.
+In this project, we develop a tool based on the Gudhi package [1] to construct and build the QC filtration and its persistent homology.
 
 ## Required packages
 
