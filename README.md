@@ -19,7 +19,7 @@ where the inclusion relations are based on the canonical one-to-one and continuo
 
 $$0 \xrightarrow{} H_q(X_1/\sim_A) \xrightarrow{\psi_1} H_q(X_2/\sim_A) \xrightarrow{\psi_2} \cdots \xrightarrow{\psi_{n-1}} H_q(X_n/\sim_A)$$
 
-of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the _q-th persistent homology of the quotient space filtration_.
+of vector spaces over the binary field $\mathbb{Z}/2\mathbb{Z}$. We call it the _q-th persistent homology of the quotient space filtration_ with non-negative integer $q$.
 
 From a computational perspective, this project focuses on the construction of _quotient complex (QC) filtration_ based on a filtration of simplicial complexes 
 
