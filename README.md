@@ -54,7 +54,7 @@ PH_QC_v2023_07_24.py
 
 ## Important functions
 
-## Google Colab Tutorial
+## Google colab tutorial
 
 
 ## References
