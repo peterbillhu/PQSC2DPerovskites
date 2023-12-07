@@ -61,3 +61,7 @@ PH_QC_v2023_07_24.py
 [3] Saul, Nathaniel, and Chris Tralie. "Scikit-tda: Topological data analysis for python." URL https://doi.org/10.5281/zenodo 2533369 (2019).
 
 [4] Hatcher, Allen. "Algebraic Topology." (2000). Available on the website https://pi.math.cornell.edu/~hatcher/AT/AT.pdf.
+
+[5] Carlsson, Gunnar. "Topology and data." Bulletin of the American Mathematical Society 46.2 (2009): 255-308.
+
+[6] 
