@@ -6,7 +6,7 @@
 
 In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [4].
 
-Especially, Persistent homology (PH)
+From a data science aspect, persistent homology (PH), based on a continuous deformation of topological spaces, is a novel way to estimate the global and local topology of the based manifold of a given point cloud data.
 
 
 ## Mathematical formulation
