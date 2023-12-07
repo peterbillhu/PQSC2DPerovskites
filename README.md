@@ -10,7 +10,7 @@ From a data science aspect, persistent homology (PH), based on a continuous defo
 
 This project proposes a Gudhi-based [1] Python code for constructing and computing the PH of quotient complexes. In the current version, we mainly focus on cell complexes (i.e., quotient complexes (QCs)) built by abstract simplicial complexes and the quotient relation on their vertices (i.e., 0-simplexes). Especially, we also demonstrate the construction of Vietoris--Rips complexes as a filtration and their quotient version. Based on the Gudhi package, the PH of the QC filtration can be calculated easily. The code for more general quotient complexes, such as the quotient relation of higher-dimensional simplices, will be consistently updated in this project.
 
-The primary mathematical framework and released code were contributed by Dr. Kelin Xia\footnote{aa} and Dr. Chuan-Shen Hu in the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore.
+The primary mathematical framework and released code were contributed by Dr. Kelin Xia[^1 https://personal.ntu.edu.sg/xiakelin/index.html] and Dr. Chuan-Shen Hu in the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore.
 
 
 ## Mathematical formulation
