@@ -8,7 +8,7 @@ In the field of algebraic topology, the cell complex offers a broader and more v
 
 From a data science aspect, persistent homology (PH), based on a continuous deformation of topological spaces, is a novel way to estimate the global and local topology of the based manifold of a given point cloud data [5,6,7] and has been widely applied in many areas of image processing, biomolecule science, machine learning, and deep learning frameworks.
 
-This project proposes a Gudhi-based [1] Python code for constructing and computing the PH of quotient complexes. In the current version, we mainly focus on cell complexes (i.e., quotient complexes (QCs)) built by abstract simplicial complexes and the quotient relation on their vertices (i.e., 0-simplexes). Especially, we also demonstrate the construction of Vietoris--Rips complexes as a filtration and their quotient version. Based on the Gudhi package, the PH of the QC filtration can be calculated easily. The code for more general quotient complexes, such as the quotient relation of higher-dimensional simplices, will be consistently updated in this project.
+This project proposes a Gudhi-based [1] Python code for constructing and computing the PH of quotient complexes. In the current version, we mainly focus on cell complexes (i.e., quotient complexes (QCs)) built by abstract simplicial complexes and the quotient relation on their vertices (i.e., 0-simplexes). Especially, we also demonstrate the construction of Vietoris--Rips complexes as a filtration and their quotient version [8]. Based on the Gudhi package, the PH of the QC filtration can be calculated easily. The code for more general quotient complexes, such as the quotient relation of higher-dimensional simplices, will be consistently updated in this project.
 
 The primary mathematical framework and released code were contributed by Dr. Kelin Xia[^1] and Dr. Chuan-Shen Hu in the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore. 
 
@@ -72,3 +72,5 @@ PH_QC_v2023_07_24.py
 [6] Carlsson, Gunnar, et al. "Persistence barcodes for shapes." Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing. 2004.
 
 [7] Ghrist, Robert. "Barcodes: the persistent topology of data." Bulletin of the American Mathematical Society 45.1 (2008): 61-75.
+
+[8] Dey, Tamal K., Dayu Shi, and Yusu Wang. "Simba: An efficient tool for approximating rips-filtration persistence via sim plicial ba tch collapse." Journal of Experimental Algorithmics (JEA) 24 (2019): 1-16.
