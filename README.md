@@ -43,6 +43,8 @@ The core is programmed in Python language with the following TDA packages:
 
 ## Released versions
 
+PH_QC_v2023_07_24.py
+
 ## Important functions
 
 ## Google Colab Tutorial
