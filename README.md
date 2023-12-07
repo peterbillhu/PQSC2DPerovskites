@@ -8,7 +8,7 @@ In the field of algebraic topology, the cell complex offers a broader and more v
 
 From a data science aspect, persistent homology (PH), based on a continuous deformation of topological spaces, is a novel way to estimate the global and local topology of the based manifold of a given point cloud data [5,6,7] and has been widely applied in many areas of image processing, biomolecule science, machine learning, and deep learning frameworks.
 
-This project proposes a Gudhi-based [1] Python code for constructing and computing the PH of quotient complexes. In the current version, we mainly focus on cell complexes (i.e., quotient complexes) built by abstract simplicial complexes and the quotient relation on their vertices (i.e., 0-simplexes). Especially, 
+This project proposes a Gudhi-based [1] Python code for constructing and computing the PH of quotient complexes. In the current version, we mainly focus on cell complexes (i.e., quotient complexes (QCs)) built by abstract simplicial complexes and the quotient relation on their vertices (i.e., 0-simplexes). Especially, we also demonstrate the construction of Vietoris--Rips complexes as a filtration and their quotient version. Based on the Gudhi package, the PH of the QC filtration can be calculated easily. 
 
 
 ## Mathematical formulation
