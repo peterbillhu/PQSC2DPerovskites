@@ -6,7 +6,7 @@
 
 In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [4].
 
-From a data science aspect, persistent homology (PH), based on a continuous deformation of topological spaces, is a novel way to estimate the global and local topology of the based manifold of a given point cloud data.
+From a data science aspect, persistent homology (PH), based on a continuous deformation of topological spaces, is a novel way to estimate the global and local topology of the based manifold of a given point cloud data [5,6,7].
 
 
 ## Mathematical formulation
@@ -64,4 +64,6 @@ PH_QC_v2023_07_24.py
 
 [5] Carlsson, Gunnar. "Topology and data." Bulletin of the American Mathematical Society 46.2 (2009): 255-308.
 
-[6] 
+[6] Carlsson, Gunnar, et al. "Persistence barcodes for shapes." Proceedings of the 2004 Eurographics/ACM SIGGRAPH symposium on Geometry processing. 2004.
+
+[7] Ghrist, Robert. "Barcodes: the persistent topology of data." Bulletin of the American Mathematical Society 45.1 (2008): 61-75.
