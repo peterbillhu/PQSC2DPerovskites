@@ -4,7 +4,9 @@
 
 ## Introduciton
 
-In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [4].  
+In the field of algebraic topology, the cell complex offers a broader and more versatile description compared to the simplicial complex. Its structure allows for greater flexibility in theoretical arguments, avoiding the rigid face constraints inherent in the simplicial complex [4].
+
+Especially, Persistent homology (PH)
 
 
 ## Mathematical formulation
