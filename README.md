@@ -12,7 +12,7 @@ This project proposes a Gudhi-based [1] Python code for constructing and computi
 
 The primary mathematical framework and released code were contributed by Dr. Kelin Xia[^1] and Dr. Chuan-Shen Hu in the School of Physical and Mathematical Sciences at Nanyang Technological University, Singapore.
 
-[^1] https://personal.ntu.edu.sg/xiakelin/index.html
+[^1]: https://personal.ntu.edu.sg/xiakelin/index.html
 
 ## Mathematical formulation
 
