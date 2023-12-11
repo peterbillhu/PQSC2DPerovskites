@@ -111,7 +111,8 @@ The simplicial tree built above can be printed as follows:
 
 This filtration of simplicial complexes can be represented by the following figure, where the right-hand side dashed region represents the labeled 6 vertices $v_0, v_1, v_2, v_3, v_4, v_5$ in the above example.
 
-![Simplicial_complex_filtration](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/7b47ec14-66f1-4b92-9c33-fd13c476abc7)
+![Simplicial_complex_filtration_v2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/80a17707-7d1c-4a2e-b105-dba14750eb9e)
+
 
 
 ## Google colab tutorial
