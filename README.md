@@ -63,7 +63,7 @@ PH_QC_v2023_07_24.py
 
 
 The output Numpy array is as follows:
-> 
+> Test
 
 
 ## Google colab tutorial
