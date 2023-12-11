@@ -61,6 +61,11 @@ PH_QC_v2023_07_24.py
 
 ## Important functions
 
+
+The output Numpy array is as follows:
+> 
+
+
 ## Google colab tutorial
 
 
