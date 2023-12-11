@@ -113,12 +113,7 @@ This filtration of simplicial complexes can be represented by the following figu
 
 ![Simplicial_complex_filtration_v2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/9cdfb830-b060-4b51-a52b-28b151008cf1)
 
-Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq K_2 \subseteq K_3 \subseteq K_4$, we can define an equivalence relation $\sim_V$ on $V$ and build the QC filtration $V/\sim_V \subseteq K_1/\sim_V \subseteq K_2/\sim_V \subseteq K_3/\sim_V \subseteq K_4/\sim_V$ as introduced in the ``Mathematical formulation'' section.
-
-
-
-
-In this project, we develop the function **get_point_quotient_complex** to 
+Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq K_2 \subseteq K_3 \subseteq K_4$, we can define an equivalence relation $\sim_V$ on $V$ and build the QC filtration $V/\sim_V \subseteq K_1/\sim_V \subseteq K_2/\sim_V \subseteq K_3/\sim_V \subseteq K_4/\sim_V$ as introduced in the ``Mathematical formulation'' section. In this project, we develop the function **get_point_quotient_complex** to 
 
 
 ## Google colab tutorial
