@@ -90,10 +90,25 @@ st.insert([0, 1, 2], 3) ## 2-simplex
 st.insert([3, 4, 5], 3) ## 2-simplex
 ```
 
+The simplicial tree built above can be printed as follows:
+> The simplex tree=
+The simplicial complex is of dimension 2 - 15 simplices - 6 vertices.
+[0] -> 0.00
+[1] -> 0.00
+[2] -> 0.00
+[3] -> 0.00
+[4] -> 0.00
+[5] -> 0.00
+[0, 1] -> 1.00
+[0, 2] -> 1.00
+[1, 2] -> 1.00
+[3, 4] -> 1.00
+[3, 5] -> 1.00
+[4, 5] -> 1.00
+[2, 3] -> 2.00
+[0, 1, 2] -> 3.00
+[3, 4, 5] -> 3.00
 
-
-The output Numpy array is as follows:
-> Test
 
 
 ## Google colab tutorial
