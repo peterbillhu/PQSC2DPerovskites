@@ -113,7 +113,7 @@ This filtration of simplicial complexes can be represented by the following figu
 
 ![Simplicial_complex_filtration_v2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/9cdfb830-b060-4b51-a52b-28b151008cf1)
 
-Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq K_2 \subseteq K_3 \subseteq K_4$
+Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq K_2 \subseteq K_3 \subseteq K_4$, we can define an equivalence relation $\sim_V$ on $V$
 
 
 
