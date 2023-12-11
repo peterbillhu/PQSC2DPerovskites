@@ -61,6 +61,36 @@ PH_QC_v2023_07_24.py
 
 ## Important functions
 
+Using the Gudhi package, there are two primary types of ways to produce a simplicial complex: using a simplicial tree structure or distance-based filtrations (such as Vietoris--Rips complexes and Alpha complexes). We first introduce the simplicial tree method for the construction. The following Python code depicts a toy example of the simplicial tree construction. 
+
+```python
+## Generate a simplicial tree:
+import gudhi as gd
+## Declaration of the simplicial tree 
+st = gd.SimplexTree()
+## Moment 0
+st.insert([0], 0) ## 0-simplex
+st.insert([1], 0) ## 0-simplex
+st.insert([2], 0) ## 0-simplex
+st.insert([3], 0) ## 0-simplex
+st.insert([4], 0) ## 0-simplex
+st.insert([5], 0) ## 0-simplex
+## Moment 1
+st.insert([0, 1], 1) ## 1-simplex
+st.insert([0, 2], 1) ## 1-simplex
+st.insert([1, 2], 1) ## 1-simplex
+st.insert([3, 4], 1) ## 1-simplex
+st.insert([3, 5], 1) ## 1-simplex
+st.insert([4, 5], 1) ## 1-simplex
+## Moment 2
+st.insert([2, 3], 2) ## 1-simplex
+## Moment 3
+st.insert([0, 1, 2], 3) ## 2-simplex
+## Moment 4
+st.insert([3, 4, 5], 3) ## 2-simplex
+```
+
+
 
 The output Numpy array is as follows:
 > Test
