@@ -87,27 +87,27 @@ st.insert([2, 3], 2) ## 1-simplex
 ## Moment 3
 st.insert([0, 1, 2], 3) ## 2-simplex
 ## Moment 4
-st.insert([3, 4, 5], 3) ## 2-simplex
+st.insert([3, 4, 5], 4) ## 2-simplex
 ```
 
 The simplicial tree built above can be printed as follows:
 >The simplex tree=  
 >The simplicial complex is of dimension 2 - 15 simplices - 6 vertices.  
 >[0] -> 0.00  
->[1] -> 0.00  
->[2] -> 0.00  
->[3] -> 0.00  
->[4] -> 0.00  
->[5] -> 0.00  
->[0, 1] -> 1.00  
->[0, 2] -> 1.00  
->[1, 2] -> 1.00  
->[3, 4] -> 1.00  
->[3, 5] -> 1.00  
->[4, 5] -> 1.00  
->[2, 3] -> 2.00  
->[0, 1, 2] -> 3.00  
->[3, 4, 5] -> 3.00  
+[1] -> 0.00  
+[2] -> 0.00  
+[3] -> 0.00  
+[4] -> 0.00  
+[5] -> 0.00  
+[0, 1] -> 1.00  
+[0, 2] -> 1.00  
+[1, 2] -> 1.00  
+[3, 4] -> 1.00  
+[3, 5] -> 1.00  
+[4, 5] -> 1.00  
+[2, 3] -> 2.00  
+[0, 1, 2] -> 3.00  
+[3, 4, 5] -> 4.00  
 
 This filtration of simplicial complexes can be represented by the following figure, where the right-hand side dashed region represents the labeled 6 vertices $v_0, v_1, v_2, v_3, v_4, v_5$ in the above example.
 
@@ -138,10 +138,10 @@ The output would be as follows:
         [ 0.,  1.],  
         [ 0., inf]]),  
  array([[ 1.,  3.],  
-        [ 1.,  3.],  
+        [ 1.,  4.],  
         [ 1., inf],  
         [ 1., inf],  
-        [ 2., inf]])]
+        [ 2., inf]])]  
 
 Especially, we can also plot the persistence barcode as follows using Gudhi.
 
