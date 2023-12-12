@@ -146,6 +146,8 @@ The output would be as follows:
 
 Especially, we can also plot the persistence barcode as follows using Gudhi.
 
+![Pesistence_barcodes](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/9d33e2ae-9423-4713-9b7b-382ff49a8c1f)
+
 
 
 
