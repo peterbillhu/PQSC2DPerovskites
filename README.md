@@ -121,7 +121,7 @@ Analog to the graphic representation as above, we can annotate the points $v_0, 
 
 ![Simplicial_complex_filtration_colored_v2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/089d9dd6-c8c6-4ef4-ae9c-5add73e47294)
 
-In the latest version of this project (PH_QC_v2023_12_12.py), we developed the function **get_point_quotient_complex** gluing points to produce this cell complex filtration. By gluing points with the same color, the filtration $V/\sim_V \subseteq K_1/\sim_V \subseteq K_2/\sim_V \subseteq K_3/\sim_V \subseteq K_4/\sim_V$ of cell complexes can be illustrated as the following figure.
+In the latest version of this project (PH_QC_v2023_12_12.py), we developed the function **get_point_quotient_complex** gluing points to produce this cell complex filtration. By gluing points with the same color, the filtration $\overline{K_0} \subseteq \overline{K_1} \subseteq \overline{K_2} \subseteq \overline{K_3} \subseteq \overline{K_4}$ (with $\overline{K_i} = K_i/\sim_V$ and $\overline{K_0} = K_0/\sim_V = V/\sim_V$) of cell complexes can be illustrated as the following figure.
 
 ![image](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/7beb32d6-1a79-4346-b58b-fb56afb939a4)
 
