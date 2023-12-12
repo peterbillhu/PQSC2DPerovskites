@@ -117,9 +117,9 @@ Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq
 
 $$v_0 \sim v_3, v_1 \sim v_4, \text{ and } v_2 \sim v_5.$$
 
-Analog to the graphic representation as above, we can annotate the points $v_0, v_1, v_2, v_3, v_4, v_5$ by red, green, and blue colors. Points that share the same color if they are equivalent. Specifically, 
+Analog to the graphic representation as above, we can annotate the points $v_0, v_1, v_2, v_3, v_4, v_5$ by red, green, and blue colors. Points that share the same color if they are equivalent. Specifically, the groups of vertices $\{ v_0, v_3 \}$, $\{ v_1, v_4 \}$, and $\{ v_2, v_5 \}$ are colored by red, blue, and green.
 
-
+![Simplicial_complex_filtration_colored_v2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/089d9dd6-c8c6-4ef4-ae9c-5add73e47294)
 
 In the latest version of this project, we developed the function **get_point_quotient_complex** gluing points to produce this cell complex filtration. We 
 
