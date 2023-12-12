@@ -125,11 +125,25 @@ In the latest version of this project (PH_QC_v2023_12_12.py), we developed the f
 
 ![image](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/7beb32d6-1a79-4346-b58b-fb56afb939a4)
 
-In summary, with the simplicial tree defined above, we use the following code to compute the persistence barcode of the produced QC complex filtration.
+In summary, with the simplicial tree defined above, we use the following code to compute the persistence barcode of the produced QC complex filtration. Here we use the code in version PH_QC_v2023_07_24.py as a demonstration.
 
 ```python
-
+import PQSC_v2023_07_24 as QC_tool
+QC_st = QC_tool.get_point_quotient_complex(st, quotient_dictionary)
+QC_tool.compute_persistence_diagrams(new_st, max_Betti_degree=1, reduce_negative_barcodes=True)
 ```
+The output would be as follows:
+
+>[array([[ 0.,  1.],  
+        [ 0.,  1.],  
+        [ 0., inf]]),  
+ array([[ 1.,  3.],  
+        [ 1.,  3.],  
+        [ 1., inf],  
+        [ 1., inf],  
+        [ 2., inf]])]  
+
+
 
 
 ## Google colab tutorial
