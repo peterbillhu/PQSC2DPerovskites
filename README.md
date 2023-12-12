@@ -117,7 +117,7 @@ Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq
 
 $$v_0 \sim v_3, v_1 \sim v_4, \text{ and } v_2 \sim v_5.$$
 
-Using the graphic representation as above, we colored the points $v_0, v_1, v_2, v_3, v_4, v_5$
+Analog to the graphic representation as above, we can annotate the points $v_0, v_1, v_2, v_3, v_4, v_5$ by red, green, and blue colors. Points that share the same color if they are equivalent. Specifically, 
 
 
 
