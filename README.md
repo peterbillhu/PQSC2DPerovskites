@@ -117,11 +117,11 @@ Based on the filtration of simplicial complexes $V = K_0 \subseteq K_1 \subseteq
 
 $$v_0 \sim v_3, v_1 \sim v_4, \text{ and } v_2 \sim v_5.$$
 
+Using the graphic representation as above, we colored the points $v_0, v_1, v_2, v_3, v_4, v_5$
 
 
 
-
-In this project, we develop the function **get_point_quotient_complex** to produce this cell complex filtration. We 
+In the latest version of this project, we developed the function **get_point_quotient_complex** gluing points to produce this cell complex filtration. We 
 
 
 ## Google colab tutorial
