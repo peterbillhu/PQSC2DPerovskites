@@ -144,7 +144,7 @@ The output would be as follows:
         [ 1., inf],  
         [ 2., inf]])]  
 
-Especially, we can also plot the persistence barcode as follows using Gudhi.
+Especially, we can apply Gudhi to plot the persistence barcode as follows.
 
 ![image](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/5f42eb66-5273-48d2-ace6-af8197f0b755)
 
