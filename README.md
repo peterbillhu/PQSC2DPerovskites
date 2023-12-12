@@ -57,8 +57,14 @@ The core is programmed in Python language with the following TDA packages:
 
 ## Released versions
 
-PH_QC_v2023_12_12.py  
+### Primary algorithm
+
+PH_QC_v2023_12_12.py---the latest version  
 PH_QC_v2023_07_24.py
+
+### Barcode tools
+
+barcode_distribution.py
 
 ## Important functions
 
