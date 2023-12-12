@@ -127,6 +127,10 @@ In the latest version of this project (PH_QC_v2023_12_12.py), we developed the f
 
 In summary, with the simplicial tree defined above, we use the following code to compute the persistence barcode of the produced QC complex filtration.
 
+```python
+
+```
+
 
 ## Google colab tutorial
 
