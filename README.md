@@ -1,6 +1,6 @@
 # Pesistent homology of quotient complexes (QCs)
 
-![Quotient_Complex_Filtration_2](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/14d968b0-bef8-4cb9-ab79-cdd03342d9e9)
+![image](https://github.com/peterbillhu/PH_of_Quotient_Complexes/assets/28446650/5f42eb66-5273-48d2-ace6-af8197f0b755)
 
 ## Introduction
 
