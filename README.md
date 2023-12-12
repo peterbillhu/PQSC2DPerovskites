@@ -130,7 +130,7 @@ In summary, with the simplicial tree defined above, we use the following code to
 ```python
 import PQSC_v2023_07_24 as QC_tool
 QC_st = QC_tool.get_point_quotient_complex(st, quotient_dictionary)
-QC_tool.compute_persistence_diagrams(new_st, max_Betti_degree=1, reduce_negative_barcodes=True)
+QC_tool.compute_persistence_diagrams(QC_st, max_Betti_degree=1, reduce_negative_barcodes=True)
 ```
 The output would be as follows:
 
@@ -141,7 +141,9 @@ The output would be as follows:
         [ 1.,  3.],  
         [ 1., inf],  
         [ 1., inf],  
-        [ 2., inf]])]  
+        [ 2., inf]])]
+
+Especially, we can also plot the persistence barcode as follows using Gudhi.
 
 
 
