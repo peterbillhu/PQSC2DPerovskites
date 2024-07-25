@@ -177,4 +177,4 @@ Especially, we can apply Gudhi to plot the persistence barcode as follows.
 
 [7] Ghrist, Robert. "Barcodes: the persistent topology of data." Bulletin of the American Mathematical Society 45.1 (2008): 61-75.
 
-[8] Dey, Tamal K., Dayu Shi, and Yusu Wang. "Simba: An efficient tool for approximating rips-filtration persistence via sim plicial ba tch collapse." Journal of Experimental Algorithmics (JEA) 24 (2019): 1-16.
+[8] Dey, Tamal K., Dayu Shi, and Yusu Wang. "Simba: An efficient tool for approximating rips-filtration persistence via simplicial batch collapse." Journal of Experimental Algorithmics (JEA) 24 (2019): 1-16.
