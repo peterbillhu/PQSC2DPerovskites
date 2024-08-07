@@ -156,7 +156,7 @@ Especially, we can apply Gudhi to plot the persistence barcode as follows.
 
 ## Google colab tutorial
 
-We created a Google Drive folder consisting of toy examples and a Google Colab notebook for the persistent homology computation of quotient complexes.
+We created a Google Drive folder consisting of toy examples and Google Colab notebooks for the persistent homology computation of quotient complexes.
 
 Link: https://drive.google.com/drive/folders/1L0Std6IGOJrsYuN9IK0ZFAAcxznyyQKH?usp=sharing
 
